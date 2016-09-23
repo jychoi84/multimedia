@@ -10,4 +10,4 @@ A curated list of resources for multimedia research.
 ## Location Estimation
 * Visual-based
   * Xinchao Li, Martha A. Larson, Alan Hanjalic, [Geo-distinctive Visual Element Matching for Location Estimation of Images](http://arxiv.org/abs/1601.07884)
-  * Tobias Weyand, Ilya Kostrikov, James Philbin, PlaNet - Photo Geolocation with Convolutional Neural Networks [article](https://www.technologyreview.com/s/600889/google-unveils-neural-network-with-superhuman-ability-to-determine-the-location-of-almost/) [paper](http://arxiv.org/abs/1602.05314)
+  * Tobias Weyand, Ilya Kostrikov, James Philbin, PlaNet - Photo Geolocation with Convolutional Neural Networks [[article]](https://www.technologyreview.com/s/600889/google-unveils-neural-network-with-superhuman-ability-to-determine-the-location-of-almost/) [[paper]](http://arxiv.org/abs/1602.05314)
