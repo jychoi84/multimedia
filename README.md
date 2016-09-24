@@ -3,10 +3,18 @@
 A curated list of resources for multimedia research. 
 
 ## Courses / Intro-level Reading Materials
+
 * Computer Vision
-  * CS231n: [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
   * [OpenCV Feature Detection and Description](http://docs.opencv.org/3.1.0/db/d27/tutorial_py_table_of_contents_feature2d.html)
 
+
+* Deep Learning
+  * CS231n: [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+  * [ELEG 5040: Advanced Topics in Signal Processing (Introduction to Deep Learning) (https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
+ 
+* NLP
+  * [CS224d: Deep Learning for Natural Language Processing] (http://cs224d.stanford.edu/)
+  
 ## Location Estimation
 * Visual-based
   * Xinchao Li, Martha A. Larson, Alan Hanjalic, Geo-distinctive Visual Element Matching for Location Estimation of Images[[paper]](http://arxiv.org/abs/1601.07884)
