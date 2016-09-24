@@ -10,7 +10,7 @@ A curated list of resources for multimedia research.
 
 * Deep Learning
   * CS231n: [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
-  * [ELEG 5040: Advanced Topics in Signal Processing (Introduction to Deep Learning) (https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
+  * [ELEG 5040: Advanced Topics in Signal Processing (Introduction to Deep Learning)] (https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
  
 * NLP
   * [CS224d: Deep Learning for Natural Language Processing] (http://cs224d.stanford.edu/)
